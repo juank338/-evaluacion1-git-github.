@@ -13,7 +13,7 @@ Para el desarrollo de este evento hay diversas herramientas que seran de mucha u
 ## 3. intalación y configuración 
 Si desea clonar este repositorio y ejecutarlo en su propia maquina  utilize el siguiente comando:
 
-git clone https://github.com/juank338/-evaluacion1-git-github.
+git clone <https://github.com/juank338/-evaluacion1-git-github.>
 
 ## 4. enlaces de interes 
 Hay varios sitios web donde se puede encontrar información de interes para el desarrollo de las actividades de Hackatón como:
