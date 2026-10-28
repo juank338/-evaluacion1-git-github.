@@ -1,0 +1,9 @@
+# variables de entorno
+.env
+
+# carpetas de logs y borradores
+logs/
+borradores/ 
+
+# dependencias de Node
+node_modules
