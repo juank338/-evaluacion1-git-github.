@@ -18,5 +18,5 @@ git clone <https://github.com/juank338/-evaluacion1-git-github.>
 ## 4. enlaces de interes 
 Hay varios sitios web donde se puede encontrar información de interes para el desarrollo de las actividades de Hackatón como:
 
-[https://github.com/]
+(https://github.com/)
 [http://senasofiaplus.edu.co/sofia-public/index.jsp]
